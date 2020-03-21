@@ -48,7 +48,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
     a component is a function in javascript that creates HTML elements and will usually fill them with information based on an object or some form of data. this is used to create many of the same HTML elements and you can forEach over an array to create many HTML elements with the same format but with different data
 
-### Git Set up
+### Git Set up ✔✔
 
 * [ ] Fork the project into your GitHub user account
 * [ ] Clone the forked project into a directory on your machine
@@ -61,7 +61,7 @@ Your finished project must include all of the following requirements:
 
 * [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
+* [ ✔✔] Following the instructions in the `Header/index.js` file, create the Header component. 
 
 * [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
