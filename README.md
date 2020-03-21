@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    The DOM is the browsers representation of HTML and can be messed with Locally via javascript you can use it to create elements within the page
+
 2. What is an event?
+
+    an event is an action a user takes often with a mouse or key such ask a keystroke or a click or a mouse movement
 
 3. What is an event listener?
 
+    an event listener is a bit of code that checks for an event and when that event happens executes a code that does something based on the event. Its essentially an if statement where the event is the if and the code it executes is what happens if the event is triggered
+
 4. Why would we convert a NodeList into an Array?
 
+    nodelists only have acess to forEach if you want to .map or .reduce you'll need to change it to an array
+
 5. What is a component?
+
+    a component is a function in javascript that creates HTML elements and will usually fill them with information based on an object or some form of data. this is used to create many of the same HTML elements and you can forEach over an array to create many HTML elements with the same format but with different data
 
 ### Git Set up
 
