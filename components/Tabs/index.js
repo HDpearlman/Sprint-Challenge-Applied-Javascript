@@ -28,7 +28,6 @@ axios.get('https://lambda-times-backend.herokuapp.com/topics')
 
 
 
-
 const tabCreator = (arrayResult) =>{
     const divTab = document.createElement('div')
     divTab.classList.add('tab')
